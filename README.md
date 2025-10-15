@@ -1,6 +1,9 @@
 <h1>THIS IS A FORK OF THE ORIGINAL PROJECT FOR PERSONAL USE. PLEASE CONTACT THE ORIGINAL AUTHOR WITH ANY ISSUES OR CONCERNS AT https://github.com/spatie/laravel-sitemap</h1>
 
 <p>This repo replicates change present in https://github.com/spatie/laravel-sitemap/pull/558/commits, which removes Browsershot and crawler-related functionality</p>
+<br><br>
+
+<hr>
 
 # Generate sitemaps with ease
 
